@@ -3,7 +3,7 @@ export const catalogo = [
       id: "1",
       marca: "Zara",
       nome: "Camisa Larga com Bolsos",
-      preco: 700git,
+      preco: 700,
       imagem: "product-1.jpg",
       feminino: false,
     },
